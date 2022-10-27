@@ -1,0 +1,5 @@
+appName: website
+imageName: localhost:5000/website.com
+serviceName: website-svc
+sourcePort: 80
+targetPort: 80
